@@ -1,0 +1,10 @@
+{
+  "name": "playback-speed-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "動画・音声の倍速再生時間計算ツール",
+  "scripts": {
+    "dev": "node scripts/server.js",
+    "build": "echo 'Static assets ready for deployment'"
+  }
+}
